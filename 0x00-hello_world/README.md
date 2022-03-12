@@ -1,3 +1,3 @@
-__ALX LOW LEVEL PROGRAMING__
+__ALX C PROGRAMING__
 
-_Working with variables, if, else and while statement_
+_This is a repository for ALX low-level programing_
